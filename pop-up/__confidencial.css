@@ -1,0 +1,16 @@
+.pop-up #conf2{
+	float: left;
+	margin-left: -6.5px;
+}
+
+.pop-up label{
+	font: 12px "ProximaNovaLight";
+	color: #f3f3f5;
+	float: left;
+	margin-top: 3px;
+	padding-left: 8px;
+}
+
+.pop-up .confid{
+	margin-top: 34px;
+}

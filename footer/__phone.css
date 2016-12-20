@@ -1,0 +1,24 @@
+footer .container .col-md-5 p{
+	font: 20px "ProximaNovalight";
+	color: #808080;
+}
+
+footer .container .col-md-5 p span{
+	color: #262626;
+	padding-left: 7px;
+}
+
+footer .container .col-md-5 a{
+	font: 15px "ProximaNovaRegular";
+	color: #f4c50b;
+	padding: 15px 29px 16px 31px;
+	border: 3px solid #f4c50b;
+	margin-left: 22px;
+}
+
+footer .container .col-md-5 a:hover{
+	text-decoration: none;
+	background: #f4c50b;
+	color: #fff;
+	transition: 0.5s;
+}

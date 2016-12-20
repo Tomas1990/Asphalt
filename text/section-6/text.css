@@ -1,0 +1,15 @@
+div.head p.header {
+  font: 35px "ProximaNovaSemibold", sans-serif;
+  color: #f4c50b;
+  margin-top: 73px;
+}
+
+div.head p.header span {
+  background: #4d4d4d;
+  padding: 3px 8px 5px 2px;
+}
+
+p.quality-2 {
+  font: 18px "ProximaNovaSemibold", sans-serif;
+  float: right;
+}

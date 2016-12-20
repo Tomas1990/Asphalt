@@ -1,0 +1,42 @@
+.text-1 .first-h3 span {
+  font: 35px "ProximaNovaBold";
+  color: #f6c506;
+  background: #262626; 
+  padding: 9px;
+  text-transform: uppercase;
+}
+
+.text-1 .second-h3 span {
+  font: 35px "ProximaNovaBold";
+  color: #f6c506;
+  background: #262626; 
+  padding: 9px;
+  text-transform: uppercase;
+}
+
+.text-1 .first-h3 {
+  margin-top: 66px;
+  margin-bottom: 0;
+}
+
+.text-1 .second-h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.text-2 .col-md-11 .text {
+  margin-top: 173px;
+  margin-left: 178px;
+}
+
+.text-2 .col-md-11 h3 span {
+  font: 35px "ProximaNovaBold";
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.text-2 .col-md-11 p {
+  font: 18px "ProximaNovaRegular";
+  color: #fff;
+  text-transform: uppercase;  
+}

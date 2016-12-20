@@ -1,0 +1,32 @@
+.section-11 {
+  background: url('../../img/section-11/background.jpg') top center;
+  height: 835px;/* пришлось исольховать height, так как кнопка почему-то не помещалась в бекграунд */
+}
+
+.section-11 .primen {
+  padding: 0 21px 21px 0;
+}
+
+.dach {
+  background: url('../../img/section-11/dachnie-poselki.jpg');
+}
+
+.gara {
+  background: url('../../img/section-11/garajnie-tovarishestva.jpg');
+}
+
+.spor {
+  background: url('../../img/section-11/sportivnie-ploshadki.jpg');
+}
+
+.pose {
+  background: url('../../img/section-11/poselkovie-dorogi.jpg');
+}
+
+.stoy {
+  background: url('../../img/section-11/stoyanki.jpg');
+}
+
+.priu {
+  background: url('../../img/section-11/priusadebnie-ploshadki.jpg');
+}

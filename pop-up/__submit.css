@@ -1,0 +1,12 @@
+.pop-up .block-3{
+	margin-top: 28px;
+	background: #f6c506;
+	font: 15px "ProximaNovaSemibold";
+	color: #f3f3f5;
+	border: 0;
+	text-transform: uppercase;
+}
+
+.pop-up .block-3:hover{
+	background: #b89d34;
+}

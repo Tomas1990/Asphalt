@@ -1,0 +1,217 @@
+@import url(../fonts/fonts.css);
+@import url(../text/text.css);
+@import url(../text/section-1/text.css);
+@import url(../text/section-3/text.css);
+@import url(../text/section-4/text.css);
+@import url(../text/section-5/text.css);
+@import url(../text/section-6/text.css);
+@import url(../text/section-8/text.css);
+@import url(../text/section-11/text.css);
+@import url(../text/section-12/text.css);
+@import url(../text/section-13/text.css);
+@import url(../text/section-14/text.css);
+@import url(../text/section-15/text.css);
+@import url(../text/section-16/text.css);
+@import url(../text/section-18/text.css);
+@import url(../css/section-1/style.css);
+@import url(../css/section-3/style.css);
+@import url(../css/section-4/style.css);
+@import url(../css/section-5/style.css);
+@import url(../css/section-6/style.css);
+@import url(../css/section-8/style.css);
+@import url(../css/section-9/style.css);
+@import url(../css/section-11/style.css);
+@import url(../css/section-13/style.css);
+@import url(../css/section-14/style.css);
+@import url(../css/section-15/style.css);
+@import url(../css/section-16/style.css);
+@import url(../css/section-18/style.css);
+@import url(../footer/__foot.css);
+@import url(../footer/__footer.css);
+@import url(../footer/__phone.css);
+@import url(../footer/__text.css);
+@import url(../pop-up/__text.css);
+@import url(../pop-up/__submit.css);
+@import url(../pop-up/__name.css);
+@import url(../pop-up/__modal.css);
+@import url(../pop-up/__form.css);
+@import url(../pop-up/__email.css);
+@import url(../pop-up/__confidencial.css);
+
+.navbar-default {
+  background-color: #262626;
+  border: none;
+  border-radius: 0;
+  margin-bottom: 0;
+}
+
+div.logo {
+  padding-top: 30px;
+  float: left;
+}
+
+div.logo .logo1 {
+  margin-right: 19px;
+}
+
+div.logo div.production {
+  padding-left: 19px;
+  border-left: solid 1px #4f4f4f;
+  float: right;
+}
+
+div.best-decision {
+  border: solid 3px;
+  padding: 40px 24px 40px 35px;
+  margin-top: 78px;
+  left: 0;
+}
+
+div.best {
+  padding: 0;
+}
+
+div.image {
+  margin-top: -39px;
+}
+
+div.image .kamaz{
+  position: absolute;
+  z-index: 1;
+}
+
+div.counter {
+  width: 300px;
+  margin-top: 92px;
+  margin-left: 295px;
+  position: relative;
+  z-index: -1;
+  float: left;
+}
+
+div.circle {
+  width: 90px;
+  height: 90px;
+  background: #262626;
+  border-radius: 90px;
+  text-align: center;
+  padding-top: 18px;
+  float: left;
+  margin-left: 7px;
+}
+
+div.form {
+  margin-top: 78px;
+  margin-bottom: 101px;
+  background: url('../img/section-2/backgrond-form.jpg') no-repeat center;
+  padding-top: 44px;
+}
+
+div.form-group {
+  width: 260px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#text, #email, #submit {
+  height: 52px;
+  border-radius: 0;
+  border: none;
+}
+
+#submit {
+  height: 52px;
+  border-radius: 0;
+  background: #f6c506;
+  border: none;
+  border-bottom: solid 5px #e0b305;
+  margin-top: 14px;
+}
+
+div.checkbox {
+  width: 275px;
+  padding-bottom: 28px;
+  padding-top: 12px;
+}
+
+div.form2 {
+  margin-top: 78px;
+  margin-bottom: 101px;
+  padding-top: 30px;
+  background: url('../img/section-7/form.jpg') no-repeat center;
+}
+
+div.form3 {
+  margin-top: 78px;
+  margin-bottom: 101px;
+  background: url('../img/section-2/backgrond-form.jpg') no-repeat center;
+  padding-top: 44px;
+}
+
+div.ar1 {
+  margin-top: 69px;
+  width: 512px;
+  padding-right: 0;
+}
+
+div.ar2 {
+  width: 242px;
+  margin-top: 69px;
+  margin-left: 26px;
+}
+
+input.area {
+  padding-right: 318px;
+  height: 42px;
+  border-radius: 0;
+  border: none;
+  text-align: left;
+}
+
+input.coating-thickness {
+  height: 42px;
+  border-radius: 0;
+  border: none;
+  padding-right: 62px;
+}
+
+input.active {
+  border: solid 2px #f4c50b;
+}
+
+div.volume {
+  width: 147px;
+  margin-top: 26px;
+  margin-right: 10px;
+}
+
+div.volume output.vol {
+  width: 147px;
+  height: 42px;
+  border-radius: 0;
+}
+  
+div.discount {
+  width: 242px;
+  margin-top: 26px;
+  margin-right: 10px;
+}
+
+div.discount output.dis {
+  width: 242px;
+  height: 42px;
+  border-radius: 0;
+}
+
+#rezultat {
+  float: right;
+}
+
+div.result {
+  width: 400px;
+  margin-top: 26px;
+}
+
+div.calculator {
+  margin-bottom: 47px;
+}

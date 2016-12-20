@@ -1,0 +1,6 @@
+.pop-up .modal-dialog{
+	height: 336px;
+	width: 63%;
+	border-radius: 0;
+	background: url(../pop-up/img/background.jpg);
+}

@@ -1,0 +1,13 @@
+ .section-16 img {
+  float: left;
+  padding-right: 16px;
+}
+
+.section-16 {
+  background: url('../../img/section-16/background.jpg');
+}
+
+.row-1 {
+  margin-top: 83px;
+  padding-bottom: 80px;
+}

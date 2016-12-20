@@ -1,0 +1,10 @@
+.section-5 {
+  background: url('../../img/section-5/background.jpg');
+}
+
+div.more {
+  background: #fff;
+  margin-top: 38px;
+  margin-bottom: 44px;
+  padding: 45px 70px 56px 72px;
+}

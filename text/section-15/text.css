@@ -1,0 +1,17 @@
+.section-15 h3 {
+  text-transform: uppercase;
+  font: 35px "ProximaNovaRegular";
+  color: #4d4d4d;
+  margin-top: 55px;
+}
+
+.section-15 p {
+  font: 15px "ProximaNovaRegular";
+  margin-top: 37px;
+}
+
+.section-15 p a {
+  background: #5f5f5f;
+  color: #f4c50b;
+  padding: 2px 2px 2px 2px;
+}

@@ -1,0 +1,11 @@
+.section-1 {
+  background: url('../../img/section-1/background.jpg') no-repeat center;
+  margin-top: -8px;
+}
+
+div.border {
+  background: url('../../img/section-1/border.png') no-repeat center;
+  margin-top: 221px;
+  margin-bottom: 192px;
+  padding: 71px 29px 70px 44px;
+}

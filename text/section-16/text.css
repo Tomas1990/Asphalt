@@ -1,0 +1,28 @@
+.section-16 .autor {
+  font: 15px/18px "ProximaNovaRegular";
+}
+
+.section-16 .autor a {
+  color: #4d4d4d;
+  text-decoration: underline;
+}
+
+.section-16 .autor a:hover {
+  text-decoration: none;
+}
+
+.section-16 h3 {
+  font: 35px "ProximaNovaRegular";
+  color: #4d4d4d;
+  margin-top: 75px;
+}
+
+.section-16 p {
+  font: 15px/22px "ProximaNovaRegular";
+  color: #4d4d4d;
+  padding-top: 15px;
+}
+
+hr {
+  border-top: 1px solid #d1d1d1;
+}

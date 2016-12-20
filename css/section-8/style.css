@@ -1,0 +1,33 @@
+.section-8 {
+  background: url('../../img/section-8/background.jpg') no-repeat center;
+}
+
+.block-bc1 {
+  background: url('../../img/section-8/bc1.png') no-repeat 55px;
+  margin-top: 56px;
+  padding-right: 0;
+  padding-bottom: 50px;
+}
+
+.block-bc2 {
+  background: url('../../img/section-8/bc2.png') no-repeat 21px;
+  margin-top: 56px;
+  padding-right: 0;
+  padding-bottom: 50px;
+}
+
+.block-bc3 {
+  background: url('../../img/section-8/bc3.png') no-repeat 150px;
+  margin-top: 2px;
+  padding-right: 0;
+  padding-bottom: 50px;
+  margin-bottom: 105px;
+}
+
+.block-bc4 {
+  background: url('../../img/section-8/bc4.png') no-repeat 117px;
+  margin-top: 2px;
+  padding-right: 0;
+  padding-bottom: 50px;
+  margin-bottom: 105px;
+}

@@ -1,0 +1,25 @@
+.section-14 a {
+  font: 15px "ProximaNovaRegular";
+  color: #fff;
+  background: #f4c50b;
+  padding: 19px 22px 19px 32px;
+  text-transform: uppercase;
+}
+
+.section-14 a:hover {
+  text-decoration: none;
+  background: #b89d34;
+}
+
+.section-14 p {
+  font: 18px/24px "ProximaNovaRegular";
+  color: #4d4d4d;
+  margin-top: 40px;
+  padding-bottom: 71px;
+}
+
+.section-14 h3 {
+  font: 35px "ProximaNovaRegular";
+  color: #4d4d4d;
+  margin-top: 68px;
+}

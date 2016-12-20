@@ -1,0 +1,15 @@
+.section-13 h3 {
+  font: 35px "ProximaNovaRegular";
+  color: #4d4d4d;
+  margin-top: 53px;
+}
+
+.section-13 a {
+  font: 18px "ProximaNovaRegular";
+  color: #fff;
+  text-decoration: underline;
+}
+
+.section-13 a:hover {
+  text-decoration: none;
+}

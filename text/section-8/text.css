@@ -1,0 +1,79 @@
+div.head h2.header-8 {
+  font: 35px "ProximaNovaSemibold", sans-serif;
+  color: #f0c50b;
+  margin-top: 75px;
+}
+
+div.head h2.header-8 span {
+  background: #262626;
+  padding-left: 9px;
+  padding-right: 16px;
+}
+
+div.block-bc1 p.client {
+  font: 16px "ProximaNovaRegular", sans-serif;
+  text-transform: initial;
+  margin-top: 112px;
+  margin-left: 80px;
+}
+
+div.block-bc1 p.client span.white {
+  background: #fff;
+  padding: 21px 23px 21px 25px;
+}
+
+div.block-bc1 p.client span.white1 {
+  background: #fff;
+  padding: 0 35px 21px 25px;
+}
+
+div.block-bc2 p.client {
+  font: 16px "ProximaNovaRegular", sans-serif;
+  text-transform: initial;
+  margin-top: 112px;
+  margin-left: 46px;
+}
+
+div.block-bc2 p.client span.white {
+  background: #fff;
+  padding: 21px 22px 41px 25px;
+}
+
+div.block-bc2 p.client span.white1 {
+  background: #fff;
+  padding: 0 35px 21px 25px;
+}
+
+div.block-bc3 p.client {
+  font: 16px "ProximaNovaRegular", sans-serif;
+  text-transform: initial;
+  margin-top: 114px;
+  margin-left: 175px;
+}
+
+div.block-bc3 p.client span.white {
+  background: #fff;
+  padding: 21px 14px 41px 25px;
+}
+
+div.block-bc3 p.client span.white1 {
+  background: #fff;
+  padding: 0 35px 21px 25px;
+}
+
+div.block-bc4 p.client {
+  font: 16px "ProximaNovaRegular", sans-serif;
+  text-transform: initial;
+  margin-top: 114px;
+  margin-left: 141px;
+}
+
+div.block-bc4 p.client span.white {
+  background: #fff;
+  padding: 21px 62px 41px 25px;
+}
+
+div.block-bc4 p.client span.white1 {
+  background: #fff;
+  padding: 0 35px 21px 25px;
+}

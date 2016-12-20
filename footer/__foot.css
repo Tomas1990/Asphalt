@@ -1,0 +1,15 @@
+footer .foot{
+	height: 107px;
+	background: #f0c50b;
+	font: 35px "ProximaNovaSemibold";
+	color: #fff;
+	text-transform: uppercase;
+}
+
+footer .foot p{
+	padding-top: 32px;
+}
+
+footer .foot span{
+	padding-left: 29px;
+}

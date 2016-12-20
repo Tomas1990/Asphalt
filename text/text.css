@@ -1,0 +1,155 @@
+div.logo div.production p {
+  font: 15px "ProximaNovaRegular", sans-serif;
+  color: #f4c50b;
+}
+
+div.logo div.production p span {
+  font: 15px "ProximaNovaBold", sans-serif;
+}
+
+ul.nav {
+  float: right;
+}
+
+ul.nav li p.number span {
+  font: 20px "ProximaNovaLight", sans-serif;
+  color: #7b7b7b; 
+}
+
+ul.nav li p.number {
+  font: 20px "ProximaNovaSemibold", sans-serif;
+  color: #fff;
+  margin-top: 37px;
+  margin-right: 22px;
+}
+
+ul.nav li.order a {
+  font: 15px "ProximaNovaRegular", sans-serif;
+  color: #f4c50b;
+  padding: 16px 30px;
+  border: solid 3px #f4c50b; 
+  margin-top: 19px;
+  margin-bottom: 19px;
+}
+
+ul.nav li.order a:hover{
+  background: #f4c50b;
+  transition: 0.5s;
+}
+
+ul.nav li.order a span {
+  color: #f4c50b;
+}
+
+ul.nav li.order a span:hover{
+  color: #fff;
+  transition: 0.5s;
+}
+
+div.best-decision p.decision span {
+  font: 35px "ProximaNovaBold", sans-serif;
+}
+
+div.best-decision p.decision, p.semibold {
+  font: 18px "ProximaNovaSemibold", sans-serif;
+}
+
+div.best-decision p.semibold span {
+  background: #f6c506;
+}
+
+u.uppercase {
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+div.form p {
+  color: #fff;
+  margin-bottom: 26px;
+  text-align: center;
+}
+
+div.form p span.span-1 {
+  font: 18px "ProximaNovaSemibold", sans-serif;
+}
+
+div.form p span.dis-t {
+  font: 13px "ProximaNovaLight", sans-serif;
+}
+
+div.form p span.span-2 {
+  color: #000;
+  background: #f6c506;
+  font: 13px "ProximaNovaLight", sans-serif;
+}
+
+#submit {
+  color: #fff;
+  font: 15px "ProximaNovaSemibold", sans-serif;
+}
+
+div.checkbox span.check {
+  color: #fff;
+  font: 13px "ProximaNovaLight", sans-serif;
+}
+
+div.circle .p1 {
+  color: #fff;
+  font: 40px "ProximaNovaSemibold", sans-serif;
+  margin-bottom: 0;
+}
+
+div.circle .p2 {
+  color: #a6a6a6;
+  font: 10px "ProximaNovaRegular", sans-serif;
+  margin-top: -30px;
+}
+
+div.form2 p.form2 {
+  color: #fff;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+div.form2 p span.span3 {
+  font: 18px "ProximaNovaSemibold", sans-serif;
+}
+
+div.form2 p span.span4 {
+  color: #000;
+  background: #f6c506;
+  font: 13px "ProximaNovaLight", sans-serif;
+  padding-left: 7px;
+  padding-right: 3px;
+}
+
+#submit {
+  color: #fff;
+  font: 15px "ProximaNovaSemibold", sans-serif;
+}
+
+div.checkbox span.check-2 {
+  color: #fff;
+  font: 13px "ProximaNovaLight", sans-serif;
+  text-transform: initial;
+}
+
+div.form3 p {
+  color: #fff;
+  text-align: center;
+  margin-bottom: 26px;
+}
+
+div.form3 p span.span5 {
+  font: 18px "ProximaNovaSemibold", sans-serif; 
+}
+
+div.form p span.dis-2 {
+  font: 13px "ProximaNovaLight", sans-serif;
+}
+
+div.form3 p span.span6 {
+  color: #000;
+  background: #f6c506;
+  font: 13px "ProximaNovaLight", sans-serif
+}

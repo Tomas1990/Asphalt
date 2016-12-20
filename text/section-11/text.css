@@ -1,0 +1,34 @@
+.section-11 h3 {
+  font: 35px "ProximaNovaRegular";
+  color: #4d4d4d;
+  text-transform: uppercase;
+  margin-top: 76px;
+  margin-bottom: 0;
+}
+
+.section-11 .row .col-md-4 p {
+  margin-top: 20px;
+  height: 232px;
+  width: 300px;
+  font: 18px "ProximaNovaRegular";
+  color: #fff;
+  text-transform: uppercase;
+  padding: 161px 0 0 46px;
+}
+
+.uznat {
+  margin-top: 30px;
+}
+
+.uznat a {
+  font: 15px "ProximaNovaRegular";
+  color: #fcf0d2;
+  background: #f4c50b;
+  padding: 18px 25px 18px 27px;
+  text-transform: uppercase;
+}
+
+.uznat a:hover {
+  text-decoration: none;
+  background: #b89d34;
+}

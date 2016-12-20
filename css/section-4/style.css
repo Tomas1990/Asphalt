@@ -1,0 +1,44 @@
+.section-4 {
+  background: url(../../img/section-4/background-1.jpg) no-repeat top center;
+  height: 708px;
+}
+
+.pagination{
+  margin-top: 200px;
+  margin-left: 65px;
+}
+
+.pagination .row ul li{
+  display: inline-block;
+}
+
+.pagination .row ul li a{
+  font: 18px "ProximaNovaRegular";
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: underline;
+  padding: 20px;
+  opacity: 0.4;
+}
+
+.pagination .row ul li a:hover{
+  opacity: 1;
+}
+
+.pagination .row ul li a img:hover{
+  opacity: 0.4;
+}
+
+.active{
+  opacity: 1 !important; 
+}
+
+.back a{
+  opacity: 1 !important;
+  text-decoration: none !important;
+} 
+
+.forward a{
+  opacity: 1 !important;
+  text-decoration: none !important;
+}

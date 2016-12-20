@@ -1,0 +1,21 @@
+div.border p.upper {
+  font: 40px "ProximaNovaSemibold", sans-serif;
+  color: #fff;
+  margin-left: 70px;
+}
+
+div.border p.upper span.sand {
+  background: url('../../img/section-1/sand.png') no-repeat center;
+  padding: 15px;
+}
+
+div.border p.quality {
+  font: 15px "ProximaNovaRegular", sans-serif;
+  color: #fff;
+}
+
+div.border p.quality span {
+  background: #262626;
+  padding: 7px 7px 6px 5px;
+  margin-left: 70px;
+}

@@ -1,0 +1,55 @@
+.section-13 {
+  background: url('../../img/section-13/background.jpg');
+  text-transform: uppercase;
+}
+
+.hyper-1 {
+  background: url('../../img/section-13/img-1.jpg') no-repeat;
+  border: 10px solid #fff;
+}
+
+.hyper-1:hover {
+  background: #fcff00 url('../../img/section-13/img-1.jpg');
+  background-blend-mode: hard-light;
+}
+
+.hyper-2 {
+  background: url('../../img/section-13/img-2.jpg');
+  border-left: 10px solid #fff;
+  border-right: 10px solid #fff;
+  border-bottom: 10px solid #fff;
+}
+
+.hyper-2:hover {
+  background: #ff0000 url('../../img/section-13/img-2.jpg');
+  background-blend-mode: hard-light;
+}
+
+.hyper-3 {
+  background: url('../../img/section-13/img-3.jpg');
+  border-left: 10px solid #fff;
+  border-right: 10px solid #fff;
+  border-bottom: 10px solid #fff;
+}
+
+.hyper-3:hover {
+  background: #0cff00 url('../../img/section-13/img-3.jpg');
+  background-blend-mode: hard-light;
+}
+
+.gde-img {
+  position: absolute;
+  background: #fff;
+  border: 1px solid #d1d1d1;
+  margin: 78px 0 0 910px;
+}
+
+.hyper-1, .hyper-2, .hyper-3 {
+  height: 131px;
+  width: 299px;
+  padding-top: 50px;
+}
+
+iframe {
+  margin-top: 58px;
+}

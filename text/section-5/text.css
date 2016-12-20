@@ -1,0 +1,12 @@
+div.more p {
+  font: 18px "ProximaNovaRegular", sans-serif;
+  margin-bottom: 37px;
+}
+
+div.more a {
+  background: #f4c50b;
+  text-decoration: none;
+  color: #fff;
+  padding: 19px 22px 18px 26px;
+  font: 15px "ProximaNovaSemibold", sans-serif;
+}

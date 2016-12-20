@@ -1,0 +1,30 @@
+div.to-calculate h4 {
+  font: 35px "ProximaNovaSemibold", sans-serif;
+  margin-top: 50px;
+}
+
+div.ar1 p.calc1 {
+  font: 15px "ProximaNovaSemibold", sans-serif;
+  text-transform: initial;
+}
+
+div.ar2 p.calc2 {
+  font: 15px "ProximaNovaLight", sans-serif;
+  text-transform: initial;
+}
+
+div.volume p.calc3 {
+  font: 15px "ProximaNovaLight", sans-serif;
+  text-transform: initial;
+}
+
+div.discount p.calc4 {
+  font: 15px "ProximaNovaLight", sans-serif;
+  text-transform: initial;
+}
+
+div.result p.result-1 {
+  font: 25px "ProximaNovaSemibold", sans-serif;
+  margin-top: 25px;
+  float: left;
+}

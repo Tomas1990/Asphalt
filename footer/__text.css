@@ -1,0 +1,14 @@
+footer .container .col-md-4 .glyphicon{
+	font-size: 30px;
+	color: #f6c506;
+	padding-right: 20px;
+}
+
+footer .container .col-md-4 p{
+	font: 15px "ProximaNovalight";
+	color: #f4c50b;
+}
+
+footer .container .col-md-4 p span{
+	text-transform: uppercase;
+}
